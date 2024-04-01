@@ -10,7 +10,7 @@
   > An app that allows users to find restrooms available for the public to use on map, with informational data on facilities available, cleanliness and any usage limitations to make sure it will meet their needs. The data will be user driven, with the ability to add restrooms, update information and provide feedback to benefit others.
 
 ## Problem ##
-  > Many people have faced the problem of trying to figure out where there is a restroom they can use while out and about that meets their personal. For people with common chronic illnesses, including IBD, IBs and many more, the need to know of available restroooms can move from an occaisional nice to have to a limiting factor that could prevent them from visiting areas that they do not know they will have access to a restroom.
+  > Many people have faced the problem of trying to figure out where there is a restroom they can use while out and about that meets their personal needs. For people with common chronic illnesses, including IBD, IBs and many more, the need to know of available restroooms is more than an occasional nice to have. It is a limiting factor that could prevent them from even visiting areas that they do not know they will have access to a suitable restroom.
 
 ## Solution ##
   > Provide a dedicated mapping solution focussed on restrooms, allowing the user commuity to keep adding to and building out the usefullness of the data with the ability to add restrooms, mark whether they were available and add data including:
